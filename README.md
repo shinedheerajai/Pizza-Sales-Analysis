@@ -23,6 +23,7 @@ This is not just about beautiful charts; it's about actionable insights. By conv
 
 
 ## Tool used for Visualization
+Power BI
 <img width="658" height="375" alt="image" src="https://github.com/user-attachments/assets/4d891bce-3c1f-4c2e-aaf9-9d85b471fd50" />
 
 <img width="425" height="238" alt="image" src="https://github.com/user-attachments/assets/a9568a33-dab6-4062-8463-259f8d6249d6" />
